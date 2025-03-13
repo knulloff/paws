@@ -36,6 +36,7 @@ const TasksTab = () => {
             icon: taskWhitePaws.src,
             title: 'Put 🐾 in your name',
             reward: '+ 5,000 PAWS'
+            redirect: ‘https://example.com/follow-channel’
         },
         {
             icon: TaskPaws,
